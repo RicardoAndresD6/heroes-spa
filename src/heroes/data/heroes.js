@@ -1,6 +1,6 @@
 export const heroes = [
     {
-        'id': 'dc-batman',
+        'id': 'batman',
         'superhero':'Batman', 
         'publisher':'DC Comics', 
         'alter_ego':'Bruce Wayne',
@@ -8,7 +8,7 @@ export const heroes = [
         'characters':'Bruce Wayne'
     },
     {
-        'id': 'dc-superman',
+        'id': 'superman',
         'superhero':'Superman', 
         'publisher':'DC Comics', 
         'alter_ego':'Kal-El',
@@ -16,7 +16,7 @@ export const heroes = [
         'characters':'Kal-El'
     },
     {
-        'id': 'dc-flash',
+        'id': 'flash',
         'superhero':'Flash', 
         'publisher':'DC Comics', 
         'alter_ego':'Jay Garrick',
@@ -24,7 +24,7 @@ export const heroes = [
         'characters':'Jay Garrick, Barry Allen, Wally West, Bart Allen'
     },
     {
-        'id': 'dc-green',
+        'id': 'green',
         'superhero':'Green Lantern', 
         'publisher':'DC Comics', 
         'alter_ego':'Alan Scott',
@@ -32,7 +32,7 @@ export const heroes = [
         'characters':'Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz'
     },
     {
-        'id': 'dc-arrow',
+        'id': 'arrow',
         'superhero':'Green Arrow', 
         'publisher':'DC Comics', 
         'alter_ego':'Oliver Queen',
@@ -40,7 +40,7 @@ export const heroes = [
         'characters':'Oliver Queen'
     },
     {
-        'id': 'dc-wonder',
+        'id': 'wonder',
         'superhero':'Wonder Woman', 
         'publisher':'DC Comics', 
         'alter_ego':'Princess Diana',
@@ -48,7 +48,7 @@ export const heroes = [
         'characters':'Princess Diana'
     },
     {
-        'id': 'dc-martian',
+        'id': 'martian',
         'superhero':'Martian Manhunter', 
         'publisher':'DC Comics', 
         'alter_ego':'J\'onn J\'onzz',
@@ -56,7 +56,7 @@ export const heroes = [
         'characters':'Martian Manhunter'
     },
     {
-        'id': 'dc-robin',
+        'id': 'robin',
         'superhero':'Robin/Nightwing', 
         'publisher':'DC Comics', 
         'alter_ego':'Dick Grayson',
@@ -64,7 +64,7 @@ export const heroes = [
         'characters':'Dick Grayson'
     },
     {
-        'id': 'dc-blue',
+        'id': 'blue',
         'superhero':'Blue Beetle', 
         'publisher':'DC Comics', 
         'alter_ego':'Dan Garret',
@@ -72,7 +72,7 @@ export const heroes = [
         'characters':'Dan Garret, Ted Kord, Jaime Reyes'
     },
     {
-        'id': 'dc-black',
+        'id': 'black',
         'superhero':'Black Canary', 
         'publisher':'DC Comics', 
         'alter_ego':'Dinah Drake',
